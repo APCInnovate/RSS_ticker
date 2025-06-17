@@ -4,13 +4,16 @@
     <color>#0D2640</color>
     <language>en</language>
     <item>
-      <title>This is going to be one news item</title>
+      <title>This is itemr 2</title>
     </item>
     <item>
-      <title>This is going to be another one</title>
+      <title>Hello Shane</title>
     </item>
     <item>
-      <title>This is a third one just for the fun of it</title>
+      <title>Hi Gwen </title>
+    </item>
+    <item>
+      <title>Look a test case</title>
     </item>
   </channel>
 </rss>
