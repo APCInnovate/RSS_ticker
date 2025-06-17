@@ -4,22 +4,16 @@
     <color>#0D2640</color>
     <language>en</language>
     <item>
-      <title>News Item 1</title>
+      <title>Test 1</title>
     </item>
     <item>
-      <title>News Item 2</title>
+      <title>Test 2</title>
     </item>
     <item>
-      <title>News Item 4</title>
+      <title>Test 3</title>
     </item>
     <item>
-      <title>News Item 3</title>
-    </item>
-    <item>
-      <title>News Item 6</title>
-    </item>
-    <item>
-      <title>News Item 7</title>
+      <title>Test 4</title>
     </item>
   </channel>
 </rss>
