@@ -8,53 +8,35 @@
       <title>TMA</title>
     </image>
     <generator>https://rss.app</generator>
-    <lastBuildDate>Wed, 18 Jun 2025 14:36:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 14:47:48 GMT</lastBuildDate>
     <atom:link href="https://apcinnovate.github.io/RSS_ticker/test_4.xml" rel="self" type="application/rss+xml"/>
     <language><![CDATA[en]]></language>
     <item>
-      <title><![CDATA[aaaaaa]]></title>
+      <title><![CDATA[iAchieve July Release Sneak Peek - A wave of enhancements is on the way]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image1.jpg" style="width: 100%;" /><div>Your article summary or HTML here 1</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article1</link>
-      <guid isPermaLink="false">266735e3-dada-48ce-9145-cd231b2ae8b1</guid>
+      <guid isPermaLink="false">cf3a07d8-6abd-4c5b-9852-8b837021f2c2</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Wed, 18 Jun 2025 12:21:04 GMT</pubDate>
+      <pubDate>Wed, 18 Jun 2025 13:32:02 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image1.jpg"/>
     </item>
     <item>
-      <title><![CDATA[bbbbbb]]></title>
+      <title><![CDATA[Breakthrough Publication from Innovation Team]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image2.jpg" style="width: 100%;" /><div>Your article summary or HTML here 2</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article2</link>
-      <guid isPermaLink="false">17323dbd-558a-4677-9e23-22d59d03aedc</guid>
+      <guid isPermaLink="false">e583087b-c1c0-49d5-abd5-e66846bd7d87</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Wed, 18 Jun 2025 12:11:09 GMT</pubDate>
+      <pubDate>Wed, 18 Jun 2025 12:52:21 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[cccccc]]></title>
+      <title><![CDATA[Nxera Project Milestone Achieved]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image3.jpg" style="width: 100%;" /><div>Your article summary or HTML here 3</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article3</link>
-      <guid isPermaLink="false">59ca6a61-3d17-4ea6-8ad0-158a1f45c784</guid>
+      <guid isPermaLink="false">054aa5fc-4994-49f9-bd0e-44a7a88875cf</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Wed, 18 Jun 2025 11:55:53 GMT</pubDate>
+      <pubDate>Wed, 18 Jun 2025 12:42:07 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[ddddd]]></title>
-      <description><![CDATA[<div><img src="https://www.yoursite.com/image4.jpg" style="width: 100%;" /><div>Your article summary or HTML here 4</div></div>]]></description>
-      <link>https://www.yoursite.com/articles/example-article4</link>
-      <guid isPermaLink="false">53d9fd1d-b4c1-4776-959a-96731d4a1be0</guid>
-      <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Wed, 18 Jun 2025 14:16:17 GMT</pubDate>
-      <media:content medium="image" url="https://www.yoursite.com/image4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[eeeee]]></title>
-      <description><![CDATA[<div><img src="https://www.yoursite.com/image5.jpg" style="width: 100%;" /><div>Your article summary or HTML here 5</div></div>]]></description>
-      <link>https://www.yoursite.com/articles/example-article5</link>
-      <guid isPermaLink="false">c1f839a3-1adf-4099-8136-909f39ad44ba</guid>
-      <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Wed, 18 Jun 2025 13:44:46 GMT</pubDate>
-      <media:content medium="image" url="https://www.yoursite.com/image5.jpg"/>
     </item>
   </channel>
 </rss>
