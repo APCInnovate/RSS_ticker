@@ -1,42 +1,60 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:media="http://search.yahoo.com/mrss/"
-     version="2.0">
-<channel>
-  <title><![CDATA[ The Medicine Accelerator ]]></title>
-  <link>https://apcinnovate.github.io/RSS_ticker/rss_feed_6.xml</link>
-  <atom:link href="https://apcinnovate.github.io/RSS_ticker/rss_feed_6.xml" rel="self" type="application/rss+xml"/>
-  <description><![CDATA[ A valid description. ]]></description>
-  <generator>https://rss.app</generator>
-  <lastBuildDate>Wed, 18 Jun 2025 10:48:27 GMT</lastBuildDate>
-  <language><![CDATA[ en ]]></language>
-
-  <item>
-    <title><![CDATA[ Welcome to the new Medicine Accelerator ticker! ]]></title>
-    <description><![CDATA[ Filler text ]]></description>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title><![CDATA[The Medicine Accelerator]]></title>
+    <description><![CDATA[Your description of the feed.]]></description>
     <link>https://approcess.com/</link>
-    <guid isPermaLink="false">item-1</guid>
-    <dc:creator><![CDATA[ Shane McDaniel ]]></dc:creator>
-    <pubDate>Tue, 17 Jun 2025 21:56:05 GMT</pubDate>
-  </item>
-
-  <item>
-    <title><![CDATA[ iAchieve July Release – A wave of enhancements is on the way ]]></title>
-    <description><![CDATA[ Filler text2 ]]></description>
-    <link>https://approcess.com/</link>
-    <guid isPermaLink="false">item-2</guid>
-    <dc:creator><![CDATA[ Shane McDaniel ]]></dc:creator>
-    <pubDate>Tue, 17 Jun 2025 22:05:05 GMT</pubDate>
-  </item>
-
-  <item>
-    <title><![CDATA[ Kudos to Melba Simon – Lead-author publication ]]></title>
-    <description><![CDATA[ Filler text3 ]]></description>
-    <link>https://approcess.com/</link>
-    <guid isPermaLink="false">item-3</guid>
-    <dc:creator><![CDATA[ Shane McDaniel ]]></dc:creator>
-    <pubDate>Tue, 17 Jun 2025 22:15:05 GMT</pubDate>
-  </item>
-</channel>
+    <image>
+      <url>https://www.yoursite.com/favicon.ico</url>
+      <title>TMA</title>
+    </image>
+    <generator>https://rss.app</generator>
+    <lastBuildDate>Wed, 18 Jun 2025 13:51:57 GMT</lastBuildDate>
+    <atom:link href="https://apcinnovate.github.io/RSS_ticker/test_4.xml" rel="self" type="application/rss+xml"/>
+    <language><![CDATA[en]]></language>
+    <item>
+      <title><![CDATA[fdsa]]></title>
+      <description><![CDATA[<div><img src="https://www.yoursite.com/image1.jpg" style="width: 100%;" /><div>Your article summary or HTML here 1</div></div>]]></description>
+      <link>https://www.yoursite.com/articles/example-article1</link>
+      <guid isPermaLink="false">93309d1b-2a5b-4c33-8c41-e47ef01934a4</guid>
+      <dc:creator><![CDATA[Author Name]]></dc:creator>
+      <pubDate>Wed, 18 Jun 2025 12:30:22 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image1.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[fd]]></title>
+      <description><![CDATA[<div><img src="https://www.yoursite.com/image2.jpg" style="width: 100%;" /><div>Your article summary or HTML here 2</div></div>]]></description>
+      <link>https://www.yoursite.com/articles/example-article2</link>
+      <guid isPermaLink="false">50a14d27-ae4a-417b-b06e-c629da0603b4</guid>
+      <dc:creator><![CDATA[Author Name]]></dc:creator>
+      <pubDate>Wed, 18 Jun 2025 11:22:29 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[as]]></title>
+      <description><![CDATA[<div><img src="https://www.yoursite.com/image3.jpg" style="width: 100%;" /><div>Your article summary or HTML here 3</div></div>]]></description>
+      <link>https://www.yoursite.com/articles/example-article3</link>
+      <guid isPermaLink="false">c6084925-42ec-405b-ac36-ada199aa6f8f</guid>
+      <dc:creator><![CDATA[Author Name]]></dc:creator>
+      <pubDate>Wed, 18 Jun 2025 13:31:28 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image3.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[fc]]></title>
+      <description><![CDATA[<div><img src="https://www.yoursite.com/image4.jpg" style="width: 100%;" /><div>Your article summary or HTML here 4</div></div>]]></description>
+      <link>https://www.yoursite.com/articles/example-article4</link>
+      <guid isPermaLink="false">469539b5-f7c2-49f9-b037-27b6c6e3251d</guid>
+      <dc:creator><![CDATA[Author Name]]></dc:creator>
+      <pubDate>Wed, 18 Jun 2025 13:19:49 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[c]]></title>
+      <description><![CDATA[<div><img src="https://www.yoursite.com/image5.jpg" style="width: 100%;" /><div>Your article summary or HTML here 5</div></div>]]></description>
+      <link>https://www.yoursite.com/articles/example-article5</link>
+      <guid isPermaLink="false">8bdffaa2-f300-49ff-a349-a6adf10c0393</guid>
+      <dc:creator><![CDATA[Author Name]]></dc:creator>
+      <pubDate>Wed, 18 Jun 2025 12:39:51 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image5.jpg"/>
+    </item>
+  </channel>
 </rss>
