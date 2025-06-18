@@ -2,9 +2,10 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>The Medicine Accelerator</title>
-    <language>en</language>
+    
     <description>test</description>
-     <atom:link href="https://APCInnovate.github.io/RSS_ticker/rss_feed_test_1.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://APCInnovate.github.io/RSS_ticker/rss_feed_test_1.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
     <item>
       <title>Welcome to the new Medicine Accelerator ticker!</title>
     </item>
