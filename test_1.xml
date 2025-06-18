@@ -1,0 +1,37 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     version="2.0">
+<channel>
+  <title><![CDATA[ Your Site Title ]]></title>
+  <description><![CDATA[ Your description of the feed. ]]></description>
+  <link>https://www.yoursite.com</link>
+  <image>
+    <url>https://www.yoursite.com/favicon.ico</url>
+    <title>Your Site Title</title>
+    <link>https://www.yoursite.com</link>
+  </image>
+  <generator>Your Generator</generator>
+  <lastBuildDate>Wed, 18 Jun 2025 10:00:00 GMT</lastBuildDate>
+  <atom:link href="https://www.yoursite.com/rss.xml" rel="self" type="application/rss+xml"/>
+  <language><![CDATA[ en ]]></language>
+
+  <item>
+    <title><![CDATA[ Example Article Title ]]></title>
+    <description><![CDATA[
+      <div>
+        <img src="https://www.yoursite.com/image.jpg" style="width: 100%;" />
+        <div>Your article summary or HTML here.</div>
+      </div>
+    ]]></description>
+    <link>https://www.yoursite.com/articles/example-article</link>
+    <guid isPermaLink="false">unique-identifier-123</guid>
+    <dc:creator><![CDATA[ Author Name ]]></dc:creator>
+    <pubDate>Wed, 18 Jun 2025 09:00:00 GMT</pubDate>
+    <media:content medium="image" url="https://www.yoursite.com/image.jpg" />
+  </item>
+
+  <!-- Add more items here -->
+</channel>
+</rss>
