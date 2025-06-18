@@ -10,15 +10,14 @@
   <image>
     <url>https://www.yoursite.com/favicon.ico</url>
     <title>TMA</title>
-    <link>https://approcess.com/</link>
   </image>
   <generator>https://rss.app</generator>
   <lastBuildDate>Wed, 18 Jun 2025 10:00:00 GMT</lastBuildDate>
-  <atom:link href="https://apcinnovate.github.io/RSS_ticker/test_3.xml" rel="self" type="application/rss+xml"/>
+  <atom:link href="https://apcinnovate.github.io/RSS_ticker/test_4.xml" rel="self" type="application/rss+xml"/>
   <language><![CDATA[ en ]]></language>
 
   <item>
-    <title><![CDATA[ Example Article Title ]]></title>
+    <title><![CDATA[ Welcome to the new Medicine Accelerator ticker! ]]></title>
     <description><![CDATA[
       <div>
         <img src="https://www.yoursite.com/image.jpg" style="width: 100%;" />
@@ -32,7 +31,7 @@
     <media:content medium="image" url="https://www.yoursite.com/image.jpg" />
   </item>
   <item>
-    <title><![CDATA[ Example Article Title 2 ]]></title>
+    <title><![CDATA[ iAchieve July Release - A wave of enhancements is on the way ]]></title>
     <description><![CDATA[
       <div>
         <img src="https://www.yoursite.com/image2.jpg" style="width: 100%;" />
@@ -45,7 +44,34 @@
     <pubDate>Wed, 18 Jun 2025 09:30:00 GMT</pubDate>
     <media:content medium="image" url="https://www.yoursite.com/image2.jpg" />
   </item>   
-
+  <item>
+    <title><![CDATA[ Kudos to Melba Simon on her lead-author publication in Chemical and Engineering Technology. ]]></title>
+    <description><![CDATA[
+      <div>
+        <img src="https://www.yoursite.com/image3.jpg" style="width: 100%;" />
+        <div>Your article summary or HTML here 3</div>
+      </div>
+    ]]></description>
+    <link>https://www.yoursite.com/articles/example-article3</link>
+    <guid isPermaLink="false">unique-identifier-124</guid>
+    <dc:creator><![CDATA[ Author Name ]]></dc:creator>
+    <pubDate>Wed, 18 Jun 2025 09:30:00 GMT</pubDate>
+    <media:content medium="image" url="https://www.yoursite.com/image3.jpg" />
+  </item> 
+    <item>
+    <title><![CDATA[ Nxera Project Milestone Achieved ]]></title>
+    <description><![CDATA[
+      <div>
+        <img src="https://www.yoursite.com/image3.jpg" style="width: 100%;" />
+        <div>Your article summary or HTML here 3</div>
+      </div>
+    ]]></description>
+    <link>https://www.yoursite.com/articles/example-article3</link>
+    <guid isPermaLink="false">unique-identifier-124</guid>
+    <dc:creator><![CDATA[ Author Name ]]></dc:creator>
+    <pubDate>Wed, 18 Jun 2025 09:30:00 GMT</pubDate>
+    <media:content medium="image" url="https://www.yoursite.com/image3.jpg" />
+  </item>      
   <!-- Add more items here -->
 </channel>
 </rss>
