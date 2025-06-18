@@ -8,44 +8,71 @@
       <title>TMA</title>
     </image>
     <generator>https://rss.app</generator>
-    <lastBuildDate>Wed, 18 Jun 2025 13:53:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 14:15:12 GMT</lastBuildDate>
     <atom:link href="https://apcinnovate.github.io/RSS_ticker/test_4.xml" rel="self" type="application/rss+xml"/>
     <language><![CDATA[en]]></language>
     <item>
-      <title><![CDATA[This is item 1]]></title>
+      <title><![CDATA[Welcome to the new Medicine Accelerator ticker!]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image1.jpg" style="width: 100%;" /><div>Your article summary or HTML here 1</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article1</link>
-      <guid isPermaLink="false">c71bb34e-9c6e-4a20-bf73-3c9faeaee346</guid>
+      <guid isPermaLink="false">f896b58a-8993-4472-80ae-c1423fddac2a</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Wed, 18 Jun 2025 11:52:49 GMT</pubDate>
+      <pubDate>Wed, 18 Jun 2025 13:10:12 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image1.jpg"/>
     </item>
     <item>
-      <title><![CDATA[This is item 2]]></title>
+      <title><![CDATA[iAchieve July Release - A wave of enhancements is on the way]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image2.jpg" style="width: 100%;" /><div>Your article summary or HTML here 2</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article2</link>
-      <guid isPermaLink="false">05360a6d-cce6-48a4-b583-658250073c89</guid>
+      <guid isPermaLink="false">20617b33-66a7-4ae4-ae2c-180e2cd4597f</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Wed, 18 Jun 2025 11:32:36 GMT</pubDate>
+      <pubDate>Wed, 18 Jun 2025 11:58:18 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[This is item 3]]></title>
+      <title><![CDATA[Kudos to Melba Simon on her lead-author publication in Chemical and Engineering Technology]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image3.jpg" style="width: 100%;" /><div>Your article summary or HTML here 3</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article3</link>
-      <guid isPermaLink="false">04394473-9c71-4b58-aaed-6a24e7755acf</guid>
+      <guid isPermaLink="false">d42fb972-2e64-4d55-bbde-4e26af87045b</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Wed, 18 Jun 2025 13:52:22 GMT</pubDate>
+      <pubDate>Wed, 18 Jun 2025 13:15:26 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image3.jpg"/>
     </item>
     <item>
-      <title><![CDATA[This is a fourth itherm]]></title>
+      <title><![CDATA[Nxera Project Milestone Achieved]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image4.jpg" style="width: 100%;" /><div>Your article summary or HTML here 4</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article4</link>
-      <guid isPermaLink="false">da76aba7-1e01-4284-a8e3-19a6ae7fd08e</guid>
+      <guid isPermaLink="false">583b3a2f-181a-4757-b390-5e884fa0178e</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Wed, 18 Jun 2025 11:37:04 GMT</pubDate>
+      <pubDate>Wed, 18 Jun 2025 13:56:36 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[The team achieved the first successful direct crystallization of NXE0033744 (Form 2), unlocking a project extension to optimize for scalability]]></title>
+      <description><![CDATA[<div><img src="https://www.yoursite.com/image5.jpg" style="width: 100%;" /><div>Your article summary or HTML here 5</div></div>]]></description>
+      <link>https://www.yoursite.com/articles/example-article5</link>
+      <guid isPermaLink="false">0a4f19f7-6fb9-4351-a683-f4fa6e21e248</guid>
+      <dc:creator><![CDATA[Author Name]]></dc:creator>
+      <pubDate>Wed, 18 Jun 2025 13:59:03 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image5.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Well done to Cillian, Israel, Jacek, Revathy, Alina and Guangyang]]></title>
+      <description><![CDATA[<div><img src="https://www.yoursite.com/image6.jpg" style="width: 100%;" /><div>Your article summary or HTML here 6</div></div>]]></description>
+      <link>https://www.yoursite.com/articles/example-article6</link>
+      <guid isPermaLink="false">c1485ad3-c9a7-473b-9521-ba147d21988b</guid>
+      <dc:creator><![CDATA[Author Name]]></dc:creator>
+      <pubDate>Wed, 18 Jun 2025 14:11:22 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Save the Date: Townhall &amp; Summer Barbecue – June 20]]></title>
+      <description><![CDATA[<div><img src="https://www.yoursite.com/image7.jpg" style="width: 100%;" /><div>Your article summary or HTML here 7</div></div>]]></description>
+      <link>https://www.yoursite.com/articles/example-article7</link>
+      <guid isPermaLink="false">641ad892-c604-43df-ae58-012ae0c865e4</guid>
+      <dc:creator><![CDATA[Author Name]]></dc:creator>
+      <pubDate>Wed, 18 Jun 2025 12:23:18 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image7.jpg"/>
     </item>
   </channel>
 </rss>
