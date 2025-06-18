@@ -6,15 +6,15 @@
 <channel>
   <title><![CDATA[ Your Site Title ]]></title>
   <description><![CDATA[ Your description of the feed. ]]></description>
-  <link>https://www.yoursite.com</link>
+  <link>https://approcess.com/</link>
   <image>
     <url>https://www.yoursite.com/favicon.ico</url>
-    <title>Your Site Title</title>
-    <link>https://www.yoursite.com</link>
+    <title>TMA</title>
+    <link>https://approcess.com/</link>
   </image>
-  <generator>Your Generator</generator>
+  <generator>https://rss.app</generator>
   <lastBuildDate>Wed, 18 Jun 2025 10:00:00 GMT</lastBuildDate>
-  <atom:link href="https://www.yoursite.com/rss.xml" rel="self" type="application/rss+xml"/>
+  <atom:link href="https://apcinnovate.github.io/RSS_ticker/test_2.xml" rel="self" type="application/rss+xml"/>
   <language><![CDATA[ en ]]></language>
 
   <item>
