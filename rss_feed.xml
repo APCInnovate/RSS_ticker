@@ -8,53 +8,44 @@
       <title>TMA</title>
     </image>
     <generator>https://rss.app</generator>
-    <lastBuildDate>Wed, 18 Jun 2025 13:51:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 13:53:28 GMT</lastBuildDate>
     <atom:link href="https://apcinnovate.github.io/RSS_ticker/test_4.xml" rel="self" type="application/rss+xml"/>
     <language><![CDATA[en]]></language>
     <item>
-      <title><![CDATA[fdsa]]></title>
+      <title><![CDATA[This is item 1]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image1.jpg" style="width: 100%;" /><div>Your article summary or HTML here 1</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article1</link>
-      <guid isPermaLink="false">93309d1b-2a5b-4c33-8c41-e47ef01934a4</guid>
+      <guid isPermaLink="false">c71bb34e-9c6e-4a20-bf73-3c9faeaee346</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Wed, 18 Jun 2025 12:30:22 GMT</pubDate>
+      <pubDate>Wed, 18 Jun 2025 11:52:49 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image1.jpg"/>
     </item>
     <item>
-      <title><![CDATA[fd]]></title>
+      <title><![CDATA[This is item 2]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image2.jpg" style="width: 100%;" /><div>Your article summary or HTML here 2</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article2</link>
-      <guid isPermaLink="false">50a14d27-ae4a-417b-b06e-c629da0603b4</guid>
+      <guid isPermaLink="false">05360a6d-cce6-48a4-b583-658250073c89</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Wed, 18 Jun 2025 11:22:29 GMT</pubDate>
+      <pubDate>Wed, 18 Jun 2025 11:32:36 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[as]]></title>
+      <title><![CDATA[This is item 3]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image3.jpg" style="width: 100%;" /><div>Your article summary or HTML here 3</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article3</link>
-      <guid isPermaLink="false">c6084925-42ec-405b-ac36-ada199aa6f8f</guid>
+      <guid isPermaLink="false">04394473-9c71-4b58-aaed-6a24e7755acf</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Wed, 18 Jun 2025 13:31:28 GMT</pubDate>
+      <pubDate>Wed, 18 Jun 2025 13:52:22 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image3.jpg"/>
     </item>
     <item>
-      <title><![CDATA[fc]]></title>
+      <title><![CDATA[This is a fourth itherm]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image4.jpg" style="width: 100%;" /><div>Your article summary or HTML here 4</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article4</link>
-      <guid isPermaLink="false">469539b5-f7c2-49f9-b037-27b6c6e3251d</guid>
+      <guid isPermaLink="false">da76aba7-1e01-4284-a8e3-19a6ae7fd08e</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Wed, 18 Jun 2025 13:19:49 GMT</pubDate>
+      <pubDate>Wed, 18 Jun 2025 11:37:04 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[c]]></title>
-      <description><![CDATA[<div><img src="https://www.yoursite.com/image5.jpg" style="width: 100%;" /><div>Your article summary or HTML here 5</div></div>]]></description>
-      <link>https://www.yoursite.com/articles/example-article5</link>
-      <guid isPermaLink="false">8bdffaa2-f300-49ff-a349-a6adf10c0393</guid>
-      <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Wed, 18 Jun 2025 12:39:51 GMT</pubDate>
-      <media:content medium="image" url="https://www.yoursite.com/image5.jpg"/>
     </item>
   </channel>
 </rss>
