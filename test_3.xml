@@ -14,7 +14,7 @@
   </image>
   <generator>https://rss.app</generator>
   <lastBuildDate>Wed, 18 Jun 2025 10:00:00 GMT</lastBuildDate>
-  <atom:link href="https://apcinnovate.github.io/RSS_ticker/test_2.xml" rel="self" type="application/rss+xml"/>
+  <atom:link href="https://apcinnovate.github.io/RSS_ticker/test_3.xml" rel="self" type="application/rss+xml"/>
   <language><![CDATA[ en ]]></language>
 
   <item>
@@ -31,6 +31,20 @@
     <pubDate>Wed, 18 Jun 2025 09:00:00 GMT</pubDate>
     <media:content medium="image" url="https://www.yoursite.com/image.jpg" />
   </item>
+  <item>
+    <title><![CDATA[ Example Article Title 2 ]]></title>
+    <description><![CDATA[
+      <div>
+        <img src="https://www.yoursite.com/image2.jpg" style="width: 100%;" />
+        <div>Your article summary or HTML here 2.</div>
+      </div>
+    ]]></description>
+    <link>https://www.yoursite.com/articles/example-article2</link>
+    <guid isPermaLink="false">unique-identifier-124</guid>
+    <dc:creator><![CDATA[ Author Name ]]></dc:creator>
+    <pubDate>Wed, 18 Jun 2025 09:30:00 GMT</pubDate>
+    <media:content medium="image" url="https://www.yoursite.com/image2.jpg" />
+  </item>   
 
   <!-- Add more items here -->
 </channel>
