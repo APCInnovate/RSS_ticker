@@ -66,11 +66,11 @@
         <div>Your article summary or HTML here 3</div>
       </div>
     ]]></description>
-    <link>https://www.yoursite.com/articles/example-article3</link>
-    <guid isPermaLink="false">unique-identifier-124</guid>
+    <link>https://www.yoursite.com/articles/example-article4</link>
+    <guid isPermaLink="false">unique-identifier-125</guid>
     <dc:creator><![CDATA[ Author Name ]]></dc:creator>
     <pubDate>Wed, 18 Jun 2025 09:30:00 GMT</pubDate>
-    <media:content medium="image" url="https://www.yoursite.com/image3.jpg" />
+    <media:content medium="image" url="https://www.yoursite.com/image4.jpg" />
   </item>      
   <!-- Add more items here -->
 </channel>
