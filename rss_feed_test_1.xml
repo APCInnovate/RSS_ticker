@@ -1,31 +1,37 @@
-<?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-  <channel>
-    <title>The Medicine Accelerator</title>
-    
-    <description>test</description>
-    <atom:link href="https://APCInnovate.github.io/RSS_ticker/rss_feed_test_1.xml" rel="self" type="application/rss+xml" />
-    <language>en</language>
-    <item>
-      <title>Welcome to the new Medicine Accelerator ticker!</title>
-    </item>
-    <item>
-      <title>iAchieve July Release - A wave of enhancements is on the way </title>
-    </item>
-    <item>
-      <title>Kudos to Melba Simon on her lead-author publication in Chemical and Engineering Technology.</title>
-    </item>
-    <item>
-      <title>Nxera Project Milestone Achieved</title>
-    </item>
-    <item>
-      <title>The team achieved the first successful direct crystallization of NXE0033744 (Form 2), unlocking a project extension to optimize for scalability.</title>
-    </item>
-    <item>
-      <title>Well done to Cillian, Israel, Jacek, Revathy, Alina and Guangyang.</title>
-    </item>
-    <item>
-      <title>Save the Date: Townhall &amp; Summer Barbecue – June 20</title>
-    </item>
-  </channel>
+<channel>
+<title>
+<![CDATA[ Fierce Pharma ]]>
+</title>
+<description>
+<![CDATA[ Fierce Pharma delivers breaking news and analysis about drug companies, the FDA and the broader pharma industry, including manufacturing, marketing and finance. ]]>
+</description>
+<link>https://www.fiercepharma.com/</link>
+<image>
+<url>https://qtxasset.com/quartz/qcloud5/fiercefavicon.ico</url>
+<title>Fierce Pharma</title>
+<link>https://www.fiercepharma.com/</link>
+</image>
+<generator>https://rss.app</generator>
+<lastBuildDate>Wed, 18 Jun 2025 09:48:27 GMT</lastBuildDate>
+<atom:link href="https://rss.app/feeds/TICvGA7W7zZIYi5d.xml" rel="self" type="application/rss+xml"/>
+<language>
+<![CDATA[ en ]]>
+</language>
+<item>
+<title>
+<![CDATA[ Lawmakers refresh tax-dodging accusations against Big Pharma, targeting Pfizer, AbbVie and others ]]>
+</title>
+<description>
+<![CDATA[ <div><img src="https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202025-05-21T151739.628.jpg?VersionId=QDlsQci3q6SiykgE9YNO0weKf3Y_yrMZ" style="width: 100%;" /><div>Two Democratic lawmakers have renewed accusations that large pharma companies have evaded paying U.S. taxes through a legislative loophole that drugmakers are allegedly lobbying to retain. | Two Democratic lawmakers have renewed accusations that large pharma companies have evaded paying U.S. taxes through a legislative loophole that drugmakers are allegedly lobbying to retain.</div></div> ]]>
+</description>
+<link>https://www.fiercepharma.com/pharma/lawmakers-refresh-tax-dodging-accusations-against-pharma-targeting-pfizer-abbvie-and-others</link>
+<guid isPermaLink="false">069b54a8729b8bd4a887a8a60a03f33b</guid>
+<dc:creator>
+<![CDATA[ Angus Liu ]]>
+</dc:creator>
+<pubDate>Tue, 17 Jun 2025 20:56:05 GMT</pubDate>
+<media:content medium="image" url="https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202025-05-21T151739.628.jpg?VersionId=QDlsQci3q6SiykgE9YNO0weKf3Y_yrMZ"/>
+</item>
+</channel>
 </rss>
