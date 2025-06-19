@@ -8,35 +8,53 @@
       <title>TMA</title>
     </image>
     <generator>https://rss.app</generator>
-    <lastBuildDate>Wed, 18 Jun 2025 14:47:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 07:30:35 GMT</lastBuildDate>
     <atom:link href="https://apcinnovate.github.io/RSS_ticker/test_4.xml" rel="self" type="application/rss+xml"/>
     <language><![CDATA[en]]></language>
     <item>
-      <title><![CDATA[iAchieve July Release Sneak Peek - A wave of enhancements is on the way]]></title>
+      <title><![CDATA[iAchieve July Release Sneak Peek - A wave of enhancements is on the way — focused on documentation, collaboration, and digital lab efficiency. Keep an eye out for upcoming training details.]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image1.jpg" style="width: 100%;" /><div>Your article summary or HTML here 1</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article1</link>
-      <guid isPermaLink="false">cf3a07d8-6abd-4c5b-9852-8b837021f2c2</guid>
+      <guid isPermaLink="false">c6fd0ff6-b568-4c9a-889b-0fc5516877e7</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Wed, 18 Jun 2025 13:32:02 GMT</pubDate>
+      <pubDate>Thu, 19 Jun 2025 07:09:28 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image1.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Breakthrough Publication from Innovation Team]]></title>
+      <title><![CDATA[Breakthrough Publication from Innovation Team - Kudos to Melba Simon on her lead-author publication in Chemical and Engineering Technology]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image2.jpg" style="width: 100%;" /><div>Your article summary or HTML here 2</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article2</link>
-      <guid isPermaLink="false">e583087b-c1c0-49d5-abd5-e66846bd7d87</guid>
+      <guid isPermaLink="false">03de174f-21c1-4b93-befc-e4805ae84278</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Wed, 18 Jun 2025 12:52:21 GMT</pubDate>
+      <pubDate>Thu, 19 Jun 2025 04:53:48 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Nxera Project Milestone Achieved]]></title>
+      <title><![CDATA[Nxera Project Milestone Achieved - The team achieved the first successful direct crystallization of NXE0033744 (Form 2), unlocking a project extension to optimize for scalability]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image3.jpg" style="width: 100%;" /><div>Your article summary or HTML here 3</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article3</link>
-      <guid isPermaLink="false">054aa5fc-4994-49f9-bd0e-44a7a88875cf</guid>
+      <guid isPermaLink="false">92dc0a6d-3298-4ae7-925a-1d3c4fb3987c</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Wed, 18 Jun 2025 12:42:07 GMT</pubDate>
+      <pubDate>Thu, 19 Jun 2025 05:32:20 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image3.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Well done to Cillian, Israel, Jacek, Revathy, Alina and Guangyang.]]></title>
+      <description><![CDATA[<div><img src="https://www.yoursite.com/image4.jpg" style="width: 100%;" /><div>Your article summary or HTML here 4</div></div>]]></description>
+      <link>https://www.yoursite.com/articles/example-article4</link>
+      <guid isPermaLink="false">b8a3e4e7-9dac-4d91-850b-ddb107ac3a14</guid>
+      <dc:creator><![CDATA[Author Name]]></dc:creator>
+      <pubDate>Thu, 19 Jun 2025 05:49:48 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Save the Date: Townhall & Summer Barbecue – Tomorrow June 20]]></title>
+      <description><![CDATA[<div><img src="https://www.yoursite.com/image5.jpg" style="width: 100%;" /><div>Your article summary or HTML here 5</div></div>]]></description>
+      <link>https://www.yoursite.com/articles/example-article5</link>
+      <guid isPermaLink="false">0dac43dd-45dd-43f3-9c03-0b156e966de9</guid>
+      <dc:creator><![CDATA[Author Name]]></dc:creator>
+      <pubDate>Thu, 19 Jun 2025 06:10:37 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image5.jpg"/>
     </item>
   </channel>
 </rss>
