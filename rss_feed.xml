@@ -8,52 +8,52 @@
       <title>TMA</title>
     </image>
     <generator>https://rss.app</generator>
-    <lastBuildDate>Thu, 19 Jun 2025 09:10:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 09:11:20 GMT</lastBuildDate>
     <atom:link href="https://apcinnovate.github.io/RSS_ticker/test_4.xml" rel="self" type="application/rss+xml"/>
     <language><![CDATA[en]]></language>
     <item>
       <title><![CDATA[iAchieve July Sneak Peek: Enhancements coming soon — better docs, smarter collab, efficient digital labs. Training details ahead.]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image1.jpg" style="width: 100%;" /><div>Your article summary or HTML here 1</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article1</link>
-      <guid isPermaLink="false">4ec8fe7d-4a68-46f6-82d1-c58ee8b3eebe</guid>
+      <guid isPermaLink="false">e09891f7-4b6c-43d3-bc91-dbf42e325fd7</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Thu, 19 Jun 2025 08:44:18 GMT</pubDate>
+      <pubDate>Thu, 19 Jun 2025 06:48:32 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image1.jpg"/>
     </item>
     <item>
       <title><![CDATA[BMS Exec Meetings: Strong momentum as ADC/HPAPI strengths & digital CMC vision impress senior leadership.]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image2.jpg" style="width: 100%;" /><div>Your article summary or HTML here 2</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article2</link>
-      <guid isPermaLink="false">ee6c9d5b-3b7a-488f-9892-f282d3725584</guid>
+      <guid isPermaLink="false">bf22d5d2-0955-477f-8cc9-2ebad6d868a8</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Thu, 19 Jun 2025 08:32:45 GMT</pubDate>
+      <pubDate>Thu, 19 Jun 2025 08:43:51 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Innovation Breakthrough: Congrats Melba Simon — lead author on novel enantio-separation in Chem & Eng Tech.]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image3.jpg" style="width: 100%;" /><div>Your article summary or HTML here 3</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article3</link>
-      <guid isPermaLink="false">8d3d8b3c-d16e-42dc-a023-55503e7c7d89</guid>
+      <guid isPermaLink="false">5489da84-1672-43c6-8793-94a069ae8792</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Thu, 19 Jun 2025 06:50:53 GMT</pubDate>
+      <pubDate>Thu, 19 Jun 2025 08:24:40 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Nxera Milestone: First direct crystallization of NXE0033744 (Form 2) achieved — scalability work begins. Kudos team!]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image4.jpg" style="width: 100%;" /><div>Your article summary or HTML here 4</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article4</link>
-      <guid isPermaLink="false">c057ec2d-2e39-4bc1-b22f-364bd930f827</guid>
+      <guid isPermaLink="false">3a251adf-d5f6-4b19-9ec2-eb23b5e36e16</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Thu, 19 Jun 2025 07:50:23 GMT</pubDate>
+      <pubDate>Thu, 19 Jun 2025 07:40:23 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[.June 20 Townhall + BBQ: Save the date — celebration details coming soon!]]></title>
+      <title><![CDATA[Tomorrow June 20 Townhall + BBQ: Save the date!]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image5.jpg" style="width: 100%;" /><div>Your article summary or HTML here 5</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article5</link>
-      <guid isPermaLink="false">d0c4366c-3f47-4abd-be70-7c3faee69d58</guid>
+      <guid isPermaLink="false">ef706bb6-0ae3-4834-961e-15cc31c92430</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Thu, 19 Jun 2025 07:02:53 GMT</pubDate>
+      <pubDate>Thu, 19 Jun 2025 06:43:55 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image5.jpg"/>
     </item>
   </channel>
