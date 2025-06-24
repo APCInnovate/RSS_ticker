@@ -8,53 +8,44 @@
       <title>TMA</title>
     </image>
     <generator>https://rss.app</generator>
-    <lastBuildDate>Thu, 19 Jun 2025 09:12:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 15:32:52 GMT</lastBuildDate>
     <atom:link href="https://apcinnovate.github.io/RSS_ticker/test_4.xml" rel="self" type="application/rss+xml"/>
     <language><![CDATA[en]]></language>
     <item>
-      <title><![CDATA[iAchieve July Sneak Peek: Enhancements coming soon — better docs, smarter collab, efficient digital labs. Training details ahead.]]></title>
+      <title><![CDATA[June is National Safety Month: Strengthen Workplace Safety and Well-being!]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image1.jpg" style="width: 100%;" /><div>Your article summary or HTML here 1</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article1</link>
-      <guid isPermaLink="false">afc1a5b9-896a-4124-a7de-f1f4660b8a14</guid>
+      <guid isPermaLink="false">08fa1314-846b-452b-b721-1fa88662d5dd</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Thu, 19 Jun 2025 09:04:49 GMT</pubDate>
+      <pubDate>Tue, 24 Jun 2025 14:11:59 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image1.jpg"/>
     </item>
     <item>
-      <title><![CDATA[BMS Exec Meetings: Strong momentum as ADC/HPAPI strengths & digital CMC vision impress senior leadership.]]></title>
+      <title><![CDATA[Team Engagement Week: Report Good Catches to Prevent Incidents!]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image2.jpg" style="width: 100%;" /><div>Your article summary or HTML here 2</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article2</link>
-      <guid isPermaLink="false">44142001-974c-4aa3-9184-2d3b46f34455</guid>
+      <guid isPermaLink="false">74fb3f37-0f40-453a-be18-07fca622e23f</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Thu, 19 Jun 2025 06:58:46 GMT</pubDate>
+      <pubDate>Tue, 24 Jun 2025 13:32:40 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Innovation Breakthrough: Congrats Melba Simon — lead author on novel enantio-separation in Chem & Eng Tech.]]></title>
+      <title><![CDATA[Boost Team Engagement with Internal Safety Audits!]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image3.jpg" style="width: 100%;" /><div>Your article summary or HTML here 3</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article3</link>
-      <guid isPermaLink="false">b674beb4-1c9c-4ace-baf5-0b5d510407bd</guid>
+      <guid isPermaLink="false">cfa57acb-a4d6-4719-a297-c9253a92f0bd</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Thu, 19 Jun 2025 07:54:52 GMT</pubDate>
+      <pubDate>Tue, 24 Jun 2025 13:41:50 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image3.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Nxera Milestone: First direct crystallization of NXE0033744 (Form 2) achieved — scalability work begins. Kudos team!]]></title>
+      <title><![CDATA[Join Safety Committees: Your Voice Matters in Promoting a Safe Workplace!]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image4.jpg" style="width: 100%;" /><div>Your article summary or HTML here 4</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article4</link>
-      <guid isPermaLink="false">9094db73-881e-4d2f-9442-054cd3dc7c2c</guid>
+      <guid isPermaLink="false">e50389b8-b92f-465c-aed4-5bee5580e3ab</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Thu, 19 Jun 2025 08:51:22 GMT</pubDate>
+      <pubDate>Tue, 24 Jun 2025 15:21:02 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Tomorrow June 20 Townhall + BBQ: Save the date!]]></title>
-      <description><![CDATA[<div><img src="https://www.yoursite.com/image5.jpg" style="width: 100%;" /><div>Your article summary or HTML here 5</div></div>]]></description>
-      <link>https://www.yoursite.com/articles/example-article5</link>
-      <guid isPermaLink="false">317956d2-108f-4216-ab8c-a5997a3757ea</guid>
-      <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Thu, 19 Jun 2025 09:08:15 GMT</pubDate>
-      <media:content medium="image" url="https://www.yoursite.com/image5.jpg"/>
     </item>
   </channel>
 </rss>
