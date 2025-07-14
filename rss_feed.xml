@@ -8,44 +8,35 @@
       <title>TMA</title>
     </image>
     <generator>https://rss.app</generator>
-    <lastBuildDate>Thu, 10 Jul 2025 17:11:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 07:26:52 GMT</lastBuildDate>
     <atom:link href="https://apcinnovate.github.io/RSS_ticker/test_4.xml" rel="self" type="application/rss+xml"/>
     <language><![CDATA[en]]></language>
     <item>
       <title><![CDATA[AI Meets Engineering - Don’t miss Ana Luiza’s BluePrint talk on AI’s real-world role – coming soon!]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image1.jpg" style="width: 100%;" /><div>Your article summary or HTML here 1</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article1</link>
-      <guid isPermaLink="false">48d51f9e-abc9-45f2-9a30-de1d4a7d52b5</guid>
+      <guid isPermaLink="false">93672755-d51f-4671-92da-1b6063ef072f</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Thu, 10 Jul 2025 14:55:05 GMT</pubDate>
+      <pubDate>Mon, 14 Jul 2025 04:47:12 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image1.jpg"/>
     </item>
     <item>
-      <title><![CDATA[iAchieve Latest Update is Live- Have you enrolled on LMS for the Experiments Co-Editing training?]]></title>
-      <description><![CDATA[<div><img src="https://www.yoursite.com/image2.jpg" style="width: 100%;" /><div>Your article summary or HTML here 2</div></div>]]></description>
-      <link>https://www.yoursite.com/articles/example-article2</link>
-      <guid isPermaLink="false">f977b6df-33e8-45dd-8050-25c4609d83b7</guid>
-      <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Thu, 10 Jul 2025 15:48:58 GMT</pubDate>
-      <media:content medium="image" url="https://www.yoursite.com/image2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Safety First - EHS led a June-long push for a stronger safety culture. Let’s keep it going!]]></title>
+      <title><![CDATA[iAchieve Latest Update  Launched July 8- Are you prepared? Have you completed the Experiments Co-editing training?]]></title>
       <description><![CDATA[<div><img src="https://www.yoursite.com/image3.jpg" style="width: 100%;" /><div>Your article summary or HTML here 3</div></div>]]></description>
       <link>https://www.yoursite.com/articles/example-article3</link>
-      <guid isPermaLink="false">eb286d6a-5e85-45ff-802b-4b9c23dcfc84</guid>
+      <guid isPermaLink="false">7cf8a25c-7ea4-4143-ab47-a15c18425ba2</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Thu, 10 Jul 2025 15:55:17 GMT</pubDate>
+      <pubDate>Mon, 14 Jul 2025 06:59:22 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image3.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Welcome Lilly to The Medicine Accelerator Campus!]]></title>
-      <description><![CDATA[<div><img src="https://www.yoursite.com/image4.jpg" style="width: 100%;" /><div>Your article summary or HTML here 4</div></div>]]></description>
-      <link>https://www.yoursite.com/articles/example-article4</link>
-      <guid isPermaLink="false">f865a387-1bda-471d-b5ac-fa147aae66f1</guid>
+      <title><![CDATA[Safety First - EHS led a June-long push for a stronger safety culture. Let’s keep it going!]]></title>
+      <description><![CDATA[<div><img src="https://www.yoursite.com/image5.jpg" style="width: 100%;" /><div>Your article summary or HTML here 5</div></div>]]></description>
+      <link>https://www.yoursite.com/articles/example-article5</link>
+      <guid isPermaLink="false">51949530-e7cb-4df1-9d65-eb65460b26fe</guid>
       <dc:creator><![CDATA[Author Name]]></dc:creator>
-      <pubDate>Thu, 10 Jul 2025 15:42:26 GMT</pubDate>
-      <media:content medium="image" url="https://www.yoursite.com/image4.jpg"/>
+      <pubDate>Mon, 14 Jul 2025 07:24:50 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image5.jpg"/>
     </item>
   </channel>
 </rss>
