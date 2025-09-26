@@ -1,28 +1,78 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-    <title>The Medicine Accelerator</title>
-    <color>#0D2640</color>
-    <language>en</language>
+    <title>&lt;![CDATA[Company Name]]&gt;</title>
+    <description>&lt;![CDATA[Your description of the feed.]]&gt;</description>
+    <link>https://www.yoursite.com</link>
+    <image>
+      <url>https://www.yoursite.com/favicon.ico</url>
+      <title>[Filler]</title>
+    </image>
+    <generator>https://rss.app</generator>
+    <lastBuildDate>Fri, 26 Sept 2025 12:15:12 GMT</lastBuildDate>
+    <atom:link href="https://www.yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>&lt;![CDATA[en]]&gt;</language>
     <item>
-      <title>Q3 Townhall Reflections: Delivering to Scale</title>
+      <title>&lt;![CDATA[Q3 Townhall Reflections: Delivering to Scale]]&gt;</title>
+      <description>&lt;![CDATA[&lt;div&gt;&lt;img src='https://www.yoursite.com/image1.jpg' style='width: 100%;'/&gt;&lt;div&gt;Your article summary or HTML here [1]&lt;/div&gt;&lt;/div&gt;]]&gt;</description>
+      <link>https://www.yoursite.com/articles/example-article1</link>
+      <guid isPermaLink="false">67df71af-043c-4156-9218-e2ca5d8b71d2</guid>
+      <dc:creator>&lt;![CDATA[Author Name]]&gt;</dc:creator>
+      <pubDate>Fri, 26 Sept 2025 12:15:12 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image1.jpg"/>
     </item>
     <item>
-      <title>New Partnerships Announced: APC join forces with Mettler Toledo &amp; DCU for Deep Tech &amp; Sustainability</title>
+      <title>&lt;![CDATA[New Partnerships Announced: APC join forces with Mettler Toledo &amp; DCU for Deep Tech &amp; Sustainability]]&gt;</title>
+      <description>&lt;![CDATA[&lt;div&gt;&lt;img src='https://www.yoursite.com/image2.jpg' style='width: 100%;'/&gt;&lt;div&gt;Your article summary or HTML here [2]&lt;/div&gt;&lt;/div&gt;]]&gt;</description>
+      <link>https://www.yoursite.com/articles/example-article2</link>
+      <guid isPermaLink="false">cf8dc1ef-358c-4847-aed1-9fe5ea1000a4</guid>
+      <dc:creator>&lt;![CDATA[Author Name]]&gt;</dc:creator>
+      <pubDate>Fri, 26 Sept 2025 12:15:12 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image2.jpg"/>
     </item>
     <item>
-      <title>iAchieve Platform Update: Enhanced Decision Tracking &amp; Project Alignment</title>
+      <title>&lt;![CDATA[iAchieve Platform Update: Enhanced Decision Tracking &amp; Project Alignment]]&gt;</title>
+      <description>&lt;![CDATA[&lt;div&gt;&lt;img src='https://www.yoursite.com/image3.jpg' style='width: 100%;'/&gt;&lt;div&gt;Your article summary or HTML here [3]&lt;/div&gt;&lt;/div&gt;]]&gt;</description>
+      <link>https://www.yoursite.com/articles/example-article3</link>
+      <guid isPermaLink="false">a8ee2b10-ebe2-49fb-a3e1-8c148d891573</guid>
+      <dc:creator>&lt;![CDATA[Author Name]]&gt;</dc:creator>
+      <pubDate>Fri, 26 Sept 2025 12:15:12 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image3.jpg"/>
     </item>
     <item>
-      <title>BD Team Expands Future Opportunities in the USA</title>
+      <title>&lt;![CDATA[BD Team Expands Future Opportunities in the USA]]&gt;</title>
+      <description>&lt;![CDATA[&lt;div&gt;&lt;img src='https://www.yoursite.com/image4.jpg' style='width: 100%;'/&gt;&lt;div&gt;Your article summary or HTML here [4]&lt;/div&gt;&lt;/div&gt;]]&gt;</description>
+      <link>https://www.yoursite.com/articles/example-article4</link>
+      <guid isPermaLink="false">722fcf74-04ba-4d89-bb45-ed9f7f234cce</guid>
+      <dc:creator>&lt;![CDATA[Author Name]]&gt;</dc:creator>
+      <pubDate>Fri, 26 Sept 2025 12:15:12 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image4.jpg"/>
     </item>
     <item>
-      <title>EHS Training &amp; ACT Meeting Practices: Upcoming Knowledge Share Talk</title>
+      <title>&lt;![CDATA[EHS Training &amp; ACT Meeting Practices: Upcoming Knowledge Share Talk]]&gt;</title>
+      <description>&lt;![CDATA[&lt;div&gt;&lt;img src='https://www.yoursite.com/image5.jpg' style='width: 100%;'/&gt;&lt;div&gt;Your article summary or HTML here [5]&lt;/div&gt;&lt;/div&gt;]]&gt;</description>
+      <link>https://www.yoursite.com/articles/example-article5</link>
+      <guid isPermaLink="false">965814bb-d5eb-45ac-aacb-0cddfd4c299e</guid>
+      <dc:creator>&lt;![CDATA[Author Name]]&gt;</dc:creator>
+      <pubDate>Fri, 26 Sept 2025 12:15:12 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image5.jpg"/>
     </item>
     <item>
-      <title>LabCup Rolls Out Across APC: Smart Inventory Management Goes Live</title>
+      <title>&lt;![CDATA[LabCup Rolls Out Across APC: Smart Inventory Management Goes Live]]&gt;</title>
+      <description>&lt;![CDATA[&lt;div&gt;&lt;img src='https://www.yoursite.com/image6.jpg' style='width: 100%;'/&gt;&lt;div&gt;Your article summary or HTML here [6]&lt;/div&gt;&lt;/div&gt;]]&gt;</description>
+      <link>https://www.yoursite.com/articles/example-article6</link>
+      <guid isPermaLink="false">8b158514-0c6f-4072-91d5-32c7f7ff2b93</guid>
+      <dc:creator>&lt;![CDATA[Author Name]]&gt;</dc:creator>
+      <pubDate>Fri, 26 Sept 2025 12:15:12 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image6.jpg"/>
     </item>
     <item>
-      <title>Jacek’s Publication Featured: Advancing Knowledge in Crystallization Science</title>
+      <title>&lt;![CDATA[Jacek’s Publication Featured: Advancing Knowledge in Crystallization Science]]&gt;</title>
+      <description>&lt;![CDATA[&lt;div&gt;&lt;img src='https://www.yoursite.com/image7.jpg' style='width: 100%;'/&gt;&lt;div&gt;Your article summary or HTML here [7]&lt;/div&gt;&lt;/div&gt;]]&gt;</description>
+      <link>https://www.yoursite.com/articles/example-article7</link>
+      <guid isPermaLink="false">c4657aaa-effa-4b19-bcd3-a03ef7299aea</guid>
+      <dc:creator>&lt;![CDATA[Author Name]]&gt;</dc:creator>
+      <pubDate>Fri, 26 Sept 2025 12:15:12 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image7.jpg"/>
     </item>
   </channel>
 </rss>
