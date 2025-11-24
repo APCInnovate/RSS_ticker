@@ -9,7 +9,7 @@
       <title>[Filler]</title>
     </image>
     <generator>https://rss.app</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 11:41:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 11:52:05 GMT</lastBuildDate>
     <atom:link href="https://www.yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
     <language><![CDATA[en]]></language>
 
@@ -22,9 +22,9 @@
       </div>
       ]]></description>
       <link>https://www.yoursite.com/articles/example-article1</link>
-      <guid isPermaLink="false">1572d58a-0e8c-437c-ad15-a8a8bb6d780a</guid>
+      <guid isPermaLink="false">8b4dc24b-9fc1-43f9-8e62-e1de7c521a8a</guid>
       <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Mon, 24 Nov 2025 11:41:51 GMT</pubDate>
+      <pubDate>Mon, 24 Nov 2025 11:52:05 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image1.jpg" />
     </item>
 
@@ -37,9 +37,9 @@
       </div>
       ]]></description>
       <link>https://www.yoursite.com/articles/example-article3</link>
-      <guid isPermaLink="false">ed0d54fc-6e39-4d2b-a64c-279c49627c18</guid>
+      <guid isPermaLink="false">afb690c7-9064-45f7-9416-397e9dc53808</guid>
       <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Mon, 24 Nov 2025 11:41:51 GMT</pubDate>
+      <pubDate>Mon, 24 Nov 2025 11:52:05 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image3.jpg" />
     </item>
 
@@ -52,9 +52,9 @@
       </div>
       ]]></description>
       <link>https://www.yoursite.com/articles/example-article4</link>
-      <guid isPermaLink="false">8313ab3e-a688-40ad-ad07-cd7ef4bf275a</guid>
+      <guid isPermaLink="false">798e4b06-efd4-40c1-af36-fc4d283f26d5</guid>
       <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Mon, 24 Nov 2025 11:41:51 GMT</pubDate>
+      <pubDate>Mon, 24 Nov 2025 11:52:05 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image4.jpg" />
     </item>
 
@@ -67,9 +67,9 @@
       </div>
       ]]></description>
       <link>https://www.yoursite.com/articles/example-article6</link>
-      <guid isPermaLink="false">6ad0f6d9-096e-43fa-ba76-a17f225c4725</guid>
+      <guid isPermaLink="false">d797a406-08b6-4c61-aaec-130b8b44fbe9</guid>
       <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Mon, 24 Nov 2025 11:41:51 GMT</pubDate>
+      <pubDate>Mon, 24 Nov 2025 11:52:05 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image6.jpg" />
     </item>
 
@@ -82,9 +82,9 @@
       </div>
       ]]></description>
       <link>https://www.yoursite.com/articles/example-article8</link>
-      <guid isPermaLink="false">e0fd84fd-02d0-423f-92fe-dec12a7c1252</guid>
+      <guid isPermaLink="false">2814b1d6-04d8-4a48-a456-8087a0a17e55</guid>
       <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Mon, 24 Nov 2025 11:41:51 GMT</pubDate>
+      <pubDate>Mon, 24 Nov 2025 11:52:05 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image8.jpg" />
     </item>
 
