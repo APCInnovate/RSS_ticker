@@ -9,12 +9,12 @@
       <title>[Filler]</title>
     </image>
     <generator>https://rss.app</generator>
-    <lastBuildDate>Fri, 07 Nov 2025 12:52:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 11:41:51 GMT</lastBuildDate>
     <atom:link href="https://www.yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
     <language><![CDATA[en]]></language>
 
     <item>
-      <title><![CDATA[ VLE Secures HPRA License to Manufacture Biotherapeutics! ]]></title>
+      <title><![CDATA[ Medicine Accelerator Team Wins National Health & Safety Award at Pharma Awards Dublin! ]]></title>
       <description><![CDATA[
       <div>
         <img src="https://www.yoursite.com/image1.jpg" style="width: 100%;" />
@@ -22,29 +22,29 @@
       </div>
       ]]></description>
       <link>https://www.yoursite.com/articles/example-article1</link>
-      <guid isPermaLink="false">1069151c-df9f-4681-b9d6-7dfaffe3e310</guid>
+      <guid isPermaLink="false">1572d58a-0e8c-437c-ad15-a8a8bb6d780a</guid>
       <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Fri, 07 Nov 2025 12:52:59 GMT</pubDate>
+      <pubDate>Mon, 24 Nov 2025 11:41:51 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image1.jpg" />
     </item>
 
     <item>
-      <title><![CDATA[ Team Effort Delivers Major Regulatory Milestone ]]></title>
+      <title><![CDATA[ VLE Secures HPRA License to Manufacture Biotherapeutics! ]]></title>
       <description><![CDATA[
       <div>
-        <img src="https://www.yoursite.com/image2.jpg" style="width: 100%;" />
-        <div>Your article summary or HTML here 2</div>
+        <img src="https://www.yoursite.com/image3.jpg" style="width: 100%;" />
+        <div>Your article summary or HTML here 3</div>
       </div>
       ]]></description>
-      <link>https://www.yoursite.com/articles/example-article2</link>
-      <guid isPermaLink="false">b2d779a8-c383-4b24-b399-2ac1b744da56</guid>
+      <link>https://www.yoursite.com/articles/example-article3</link>
+      <guid isPermaLink="false">ed0d54fc-6e39-4d2b-a64c-279c49627c18</guid>
       <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Fri, 07 Nov 2025 12:52:59 GMT</pubDate>
-      <media:content medium="image" url="https://www.yoursite.com/image2.jpg" />
+      <pubDate>Mon, 24 Nov 2025 11:41:51 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image3.jpg" />
     </item>
 
     <item>
-      <title><![CDATA[ iAchieve Insights: Standardisation That Inspires ]]></title>
+      <title><![CDATA[ Team Effort Delivers Major Regulatory Milestone ]]></title>
       <description><![CDATA[
       <div>
         <img src="https://www.yoursite.com/image4.jpg" style="width: 100%;" />
@@ -52,9 +52,9 @@
       </div>
       ]]></description>
       <link>https://www.yoursite.com/articles/example-article4</link>
-      <guid isPermaLink="false">6d3db322-2b56-4d52-8c31-e8ad5eaaed21</guid>
+      <guid isPermaLink="false">8313ab3e-a688-40ad-ad07-cd7ef4bf275a</guid>
       <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Fri, 07 Nov 2025 12:52:59 GMT</pubDate>
+      <pubDate>Mon, 24 Nov 2025 11:41:51 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image4.jpg" />
     </item>
 
@@ -67,14 +67,14 @@
       </div>
       ]]></description>
       <link>https://www.yoursite.com/articles/example-article6</link>
-      <guid isPermaLink="false">f08dca81-18d6-435f-933b-6eafd7bc3c1a</guid>
+      <guid isPermaLink="false">6ad0f6d9-096e-43fa-ba76-a17f225c4725</guid>
       <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Fri, 07 Nov 2025 12:52:59 GMT</pubDate>
+      <pubDate>Mon, 24 Nov 2025 11:41:51 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image6.jpg" />
     </item>
 
     <item>
-      <title><![CDATA[ Commercial Team Builds Momentum with Client Engagements ]]></title>
+      <title><![CDATA[ TRANS-AM Biotherapeutics Program Announced with NIBRT & UCD ]]></title>
       <description><![CDATA[
       <div>
         <img src="https://www.yoursite.com/image8.jpg" style="width: 100%;" />
@@ -82,70 +82,10 @@
       </div>
       ]]></description>
       <link>https://www.yoursite.com/articles/example-article8</link>
-      <guid isPermaLink="false">ea857e18-81dc-49ff-9cd3-9b07e0962743</guid>
+      <guid isPermaLink="false">e0fd84fd-02d0-423f-92fe-dec12a7c1252</guid>
       <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Fri, 07 Nov 2025 12:52:59 GMT</pubDate>
+      <pubDate>Mon, 24 Nov 2025 11:41:51 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image8.jpg" />
-    </item>
-
-    <item>
-      <title><![CDATA[ Minister James Lawless Visits Medicine Accelerator ]]></title>
-      <description><![CDATA[
-      <div>
-        <img src="https://www.yoursite.com/image10.jpg" style="width: 100%;" />
-        <div>Your article summary or HTML here 10</div>
-      </div>
-      ]]></description>
-      <link>https://www.yoursite.com/articles/example-article10</link>
-      <guid isPermaLink="false">1192bbed-e374-4e70-aac5-c174e309628f</guid>
-      <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Fri, 07 Nov 2025 12:52:59 GMT</pubDate>
-      <media:content medium="image" url="https://www.yoursite.com/image10.jpg" />
-    </item>
-
-    <item>
-      <title><![CDATA[ TRANS-AM Biotherapeutics Program Announced with NIBRT & UCD ]]></title>
-      <description><![CDATA[
-      <div>
-        <img src="https://www.yoursite.com/image11.jpg" style="width: 100%;" />
-        <div>Your article summary or HTML here 11</div>
-      </div>
-      ]]></description>
-      <link>https://www.yoursite.com/articles/example-article11</link>
-      <guid isPermaLink="false">c1dd0072-6cd3-4cd2-8d6d-59571dc08ad9</guid>
-      <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Fri, 07 Nov 2025 12:52:59 GMT</pubDate>
-      <media:content medium="image" url="https://www.yoursite.com/image11.jpg" />
-    </item>
-
-    <item>
-      <title><![CDATA[ SSPC Flow Chemistry Community Gathers On-Site ]]></title>
-      <description><![CDATA[
-      <div>
-        <img src="https://www.yoursite.com/image13.jpg" style="width: 100%;" />
-        <div>Your article summary or HTML here 13</div>
-      </div>
-      ]]></description>
-      <link>https://www.yoursite.com/articles/example-article13</link>
-      <guid isPermaLink="false">a849eae4-fe69-4ce3-99d4-480dd4a6d5b0</guid>
-      <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Fri, 07 Nov 2025 12:52:59 GMT</pubDate>
-      <media:content medium="image" url="https://www.yoursite.com/image13.jpg" />
-    </item>
-
-    <item>
-      <title><![CDATA[ Leaders Complete Mental Health Awareness Training ]]></title>
-      <description><![CDATA[
-      <div>
-        <img src="https://www.yoursite.com/image15.jpg" style="width: 100%;" />
-        <div>Your article summary or HTML here 15</div>
-      </div>
-      ]]></description>
-      <link>https://www.yoursite.com/articles/example-article15</link>
-      <guid isPermaLink="false">23475f85-a311-4ab4-97a9-6f641efdd620</guid>
-      <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Fri, 07 Nov 2025 12:52:59 GMT</pubDate>
-      <media:content medium="image" url="https://www.yoursite.com/image15.jpg" />
     </item>
 
   </channel>
