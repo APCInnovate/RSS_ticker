@@ -9,7 +9,7 @@
       <title>[Filler]</title>
     </image>
     <generator>https://rss.app</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 11:53:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 09:22:05 GMT</lastBuildDate>
     <atom:link href="https://www.yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
     <language><![CDATA[en]]></language>
 
@@ -17,19 +17,49 @@
       <title><![CDATA[ Medicine Accelerator Team Wins National Health & Safety Award at Pharma Awards Dublin! ]]></title>
       <description><![CDATA[
       <div>
+        <img src="https://www.yoursite.com/image1.jpg" style="width: 100%;" />
+        <div>Your article summary or HTML here 1</div>
+      </div>
+      ]]></description>
+      <link>https://www.yoursite.com/articles/example-article1</link>
+      <guid isPermaLink="false">c31b0379-daca-494b-bc5f-4d1814079830</guid>
+      <dc:creator><![CDATA[ Author Name ]]></dc:creator>
+      <pubDate>Mon, 08 Dec 2025 09:22:05 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image1.jpg" />
+    </item>
+
+    <item>
+      <title><![CDATA[ VLE Secures HPRA License to Manufacture Biotherapeutics! ]]></title>
+      <description><![CDATA[
+      <div>
         <img src="https://www.yoursite.com/image2.jpg" style="width: 100%;" />
         <div>Your article summary or HTML here 2</div>
       </div>
       ]]></description>
       <link>https://www.yoursite.com/articles/example-article2</link>
-      <guid isPermaLink="false">d106558f-0ff0-4390-b972-4d74c00961ce</guid>
+      <guid isPermaLink="false">9dafbe0a-05db-4dae-b6a3-7d0ea6f38c7a</guid>
       <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Mon, 24 Nov 2025 11:53:59 GMT</pubDate>
+      <pubDate>Mon, 08 Dec 2025 09:22:05 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image2.jpg" />
     </item>
 
     <item>
-      <title><![CDATA[ VLE Secures HPRA License to Manufacture Biotherapeutics! ]]></title>
+      <title><![CDATA[ Team Effort Delivers Major Regulatory Milestone ]]></title>
+      <description><![CDATA[
+      <div>
+        <img src="https://www.yoursite.com/image3.jpg" style="width: 100%;" />
+        <div>Your article summary or HTML here 3</div>
+      </div>
+      ]]></description>
+      <link>https://www.yoursite.com/articles/example-article3</link>
+      <guid isPermaLink="false">0c354ead-3330-4be4-8988-b31a5b1c2644</guid>
+      <dc:creator><![CDATA[ Author Name ]]></dc:creator>
+      <pubDate>Mon, 08 Dec 2025 09:22:05 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image3.jpg" />
+    </item>
+
+    <item>
+      <title><![CDATA[ Projects B625 & B638 Earn Client Praise for Scientific Excellence ]]></title>
       <description><![CDATA[
       <div>
         <img src="https://www.yoursite.com/image4.jpg" style="width: 100%;" />
@@ -37,14 +67,14 @@
       </div>
       ]]></description>
       <link>https://www.yoursite.com/articles/example-article4</link>
-      <guid isPermaLink="false">80c45a59-1dcd-43d8-a541-359250ddc294</guid>
+      <guid isPermaLink="false">b016b4a4-ecb4-4661-90de-7a01e4782ed3</guid>
       <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Mon, 24 Nov 2025 11:53:59 GMT</pubDate>
+      <pubDate>Mon, 08 Dec 2025 09:22:05 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image4.jpg" />
     </item>
 
     <item>
-      <title><![CDATA[ Team Effort Delivers Major Regulatory Milestone ]]></title>
+      <title><![CDATA[ TRANS-AM Biotherapeutics Program Announced with NIBRT & UCD. ]]></title>
       <description><![CDATA[
       <div>
         <img src="https://www.yoursite.com/image5.jpg" style="width: 100%;" />
@@ -52,40 +82,10 @@
       </div>
       ]]></description>
       <link>https://www.yoursite.com/articles/example-article5</link>
-      <guid isPermaLink="false">72ac34f7-4cb4-4411-ae8b-b5620c8a72db</guid>
+      <guid isPermaLink="false">de5fcd53-65eb-4c8b-b617-8723b7a67f0c</guid>
       <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Mon, 24 Nov 2025 11:53:59 GMT</pubDate>
+      <pubDate>Mon, 08 Dec 2025 09:22:05 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image5.jpg" />
-    </item>
-
-    <item>
-      <title><![CDATA[ Projects B625 & B638 Earn Client Praise for Scientific Excellence ]]></title>
-      <description><![CDATA[
-      <div>
-        <img src="https://www.yoursite.com/image7.jpg" style="width: 100%;" />
-        <div>Your article summary or HTML here 7</div>
-      </div>
-      ]]></description>
-      <link>https://www.yoursite.com/articles/example-article7</link>
-      <guid isPermaLink="false">7d4df9f3-b8c8-468b-9a3f-f3cec056cd34</guid>
-      <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Mon, 24 Nov 2025 11:53:59 GMT</pubDate>
-      <media:content medium="image" url="https://www.yoursite.com/image7.jpg" />
-    </item>
-
-    <item>
-      <title><![CDATA[ TRANS-AM Biotherapeutics Program Announced with NIBRT & UCD ]]></title>
-      <description><![CDATA[
-      <div>
-        <img src="https://www.yoursite.com/image9.jpg" style="width: 100%;" />
-        <div>Your article summary or HTML here 9</div>
-      </div>
-      ]]></description>
-      <link>https://www.yoursite.com/articles/example-article9</link>
-      <guid isPermaLink="false">d6c2bb9a-7714-4afc-9dba-4bde07f2cd71</guid>
-      <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Mon, 24 Nov 2025 11:53:59 GMT</pubDate>
-      <media:content medium="image" url="https://www.yoursite.com/image9.jpg" />
     </item>
 
   </channel>
