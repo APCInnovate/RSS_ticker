@@ -9,7 +9,7 @@
       <title>[Filler]</title>
     </image>
     <generator>https://rss.app</generator>
-    <lastBuildDate>Fri, 19 Dec 2025 11:09:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 11:10:58 GMT</lastBuildDate>
     <atom:link href="https://www.yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
     <language><![CDATA[en]]></language>
 
@@ -17,49 +17,19 @@
       <title><![CDATA[ Celebrating Excellence: B616 & B507 teams earn client kudos; B645 nails RFT with ETS deliverable. ]]></title>
       <description><![CDATA[
       <div>
-        <img src="https://www.yoursite.com/image1.jpg" style="width: 100%;" />
-        <div>Your article summary or HTML here 1</div>
-      </div>
-      ]]></description>
-      <link>https://www.yoursite.com/articles/example-article1</link>
-      <guid isPermaLink="false">823dd549-5e25-414a-9e45-45f9f6467222</guid>
-      <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Fri, 19 Dec 2025 11:09:52 GMT</pubDate>
-      <media:content medium="image" url="https://www.yoursite.com/image1.jpg" />
-    </item>
-
-    <item>
-      <title><![CDATA[ Townhall & Q1 Outlook: Building a fitter, stronger organization together. ]]></title>
-      <description><![CDATA[
-      <div>
         <img src="https://www.yoursite.com/image2.jpg" style="width: 100%;" />
         <div>Your article summary or HTML here 2</div>
       </div>
       ]]></description>
       <link>https://www.yoursite.com/articles/example-article2</link>
-      <guid isPermaLink="false">4511b601-2c49-4ec7-b6bb-5e81cb3c70c1</guid>
+      <guid isPermaLink="false">5d30bdb7-ac90-4e8d-ba57-f9669d0f6e93</guid>
       <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Fri, 19 Dec 2025 11:09:52 GMT</pubDate>
+      <pubDate>Fri, 19 Dec 2025 11:10:58 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image2.jpg" />
     </item>
 
     <item>
-      <title><![CDATA[ Driving Sustainability: Explore BeGreen LMS modules to power ESG goals. ]]></title>
-      <description><![CDATA[
-      <div>
-        <img src="https://www.yoursite.com/image3.jpg" style="width: 100%;" />
-        <div>Your article summary or HTML here 3</div>
-      </div>
-      ]]></description>
-      <link>https://www.yoursite.com/articles/example-article3</link>
-      <guid isPermaLink="false">849d55f9-f4ef-4dda-814c-4d8370033123</guid>
-      <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Fri, 19 Dec 2025 11:09:52 GMT</pubDate>
-      <media:content medium="image" url="https://www.yoursite.com/image3.jpg" />
-    </item>
-
-    <item>
-      <title><![CDATA[ Smarter Support: Discover the new LDI function for logging requests. ]]></title>
+      <title><![CDATA[ Townhall & Q1 Outlook: Building a fitter, stronger organization together. ]]></title>
       <description><![CDATA[
       <div>
         <img src="https://www.yoursite.com/image4.jpg" style="width: 100%;" />
@@ -67,29 +37,14 @@
       </div>
       ]]></description>
       <link>https://www.yoursite.com/articles/example-article4</link>
-      <guid isPermaLink="false">9007c7ba-64a5-4db6-9e97-0af86a1acf7f</guid>
+      <guid isPermaLink="false">a7645bfa-77a8-47f7-9cbc-b9705dcd3019</guid>
       <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Fri, 19 Dec 2025 11:09:52 GMT</pubDate>
+      <pubDate>Fri, 19 Dec 2025 11:10:58 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image4.jpg" />
     </item>
 
     <item>
-      <title><![CDATA[ Holiday Cheer: Thanks to Marjorie & Rachel for an amazing Christmas party! ]]></title>
-      <description><![CDATA[
-      <div>
-        <img src="https://www.yoursite.com/image5.jpg" style="width: 100%;" />
-        <div>Your article summary or HTML here 5</div>
-      </div>
-      ]]></description>
-      <link>https://www.yoursite.com/articles/example-article5</link>
-      <guid isPermaLink="false">fe8df9b0-ccb3-4222-aa22-e27374ea85a7</guid>
-      <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Fri, 19 Dec 2025 11:09:52 GMT</pubDate>
-      <media:content medium="image" url="https://www.yoursite.com/image5.jpg" />
-    </item>
-
-    <item>
-      <title><![CDATA[ Happy Christmas to all – wishing you joy and success in the New Year! ]]></title>
+      <title><![CDATA[ Driving Sustainability: Explore BeGreen LMS modules to power ESG goals. ]]></title>
       <description><![CDATA[
       <div>
         <img src="https://www.yoursite.com/image6.jpg" style="width: 100%;" />
@@ -97,10 +52,55 @@
       </div>
       ]]></description>
       <link>https://www.yoursite.com/articles/example-article6</link>
-      <guid isPermaLink="false">5957c6ce-22b0-47c1-b5a4-59cbfaab5b4c</guid>
+      <guid isPermaLink="false">7c8a9fcf-1e01-4564-bee2-8e82daf62bde</guid>
       <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Fri, 19 Dec 2025 11:09:52 GMT</pubDate>
+      <pubDate>Fri, 19 Dec 2025 11:10:58 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image6.jpg" />
+    </item>
+
+    <item>
+      <title><![CDATA[ Smarter Support: Discover the new LDI function for logging requests. ]]></title>
+      <description><![CDATA[
+      <div>
+        <img src="https://www.yoursite.com/image8.jpg" style="width: 100%;" />
+        <div>Your article summary or HTML here 8</div>
+      </div>
+      ]]></description>
+      <link>https://www.yoursite.com/articles/example-article8</link>
+      <guid isPermaLink="false">fec6bb47-c14c-40a2-925f-50045e4bf0c4</guid>
+      <dc:creator><![CDATA[ Author Name ]]></dc:creator>
+      <pubDate>Fri, 19 Dec 2025 11:10:58 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image8.jpg" />
+    </item>
+
+    <item>
+      <title><![CDATA[ Holiday Cheer: Thanks to Marjorie & Rachel for an amazing Christmas party! ]]></title>
+      <description><![CDATA[
+      <div>
+        <img src="https://www.yoursite.com/image10.jpg" style="width: 100%;" />
+        <div>Your article summary or HTML here 10</div>
+      </div>
+      ]]></description>
+      <link>https://www.yoursite.com/articles/example-article10</link>
+      <guid isPermaLink="false">659f2a5d-3ce6-4e94-bf41-247d8933dcd9</guid>
+      <dc:creator><![CDATA[ Author Name ]]></dc:creator>
+      <pubDate>Fri, 19 Dec 2025 11:10:58 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image10.jpg" />
+    </item>
+
+    <item>
+      <title><![CDATA[ Happy Christmas to all – wishing you joy and success in the New Year! ]]></title>
+      <description><![CDATA[
+      <div>
+        <img src="https://www.yoursite.com/image12.jpg" style="width: 100%;" />
+        <div>Your article summary or HTML here 12</div>
+      </div>
+      ]]></description>
+      <link>https://www.yoursite.com/articles/example-article12</link>
+      <guid isPermaLink="false">7c743c87-c3ba-4469-ba06-f259330cbed7</guid>
+      <dc:creator><![CDATA[ Author Name ]]></dc:creator>
+      <pubDate>Fri, 19 Dec 2025 11:10:58 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image12.jpg" />
     </item>
 
   </channel>
