@@ -9,12 +9,12 @@
       <title>[Filler]</title>
     </image>
     <generator>https://rss.app</generator>
-    <lastBuildDate>Tue, 19 May 2026 14:45:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 14:49:05 GMT</lastBuildDate>
     <atom:link href="https://www.yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
     <language><![CDATA[en]]></language>
 
     <item>
-      <title><![CDATA[ Updates coming soon ]]></title>
+      <title><![CDATA[ Welcome to The Medicine Accelerator ticker ]]></title>
       <description><![CDATA[
       <div>
         <img src="https://www.yoursite.com/image1.jpg" style="width: 100%;" />
@@ -22,10 +22,25 @@
       </div>
       ]]></description>
       <link>https://www.yoursite.com/articles/example-article1</link>
-      <guid isPermaLink="false">75ef2de6-7614-4c81-a5a3-7f2b0423d13e</guid>
+      <guid isPermaLink="false">8aa10408-dc19-4fdb-a207-dcab6bcf3c69</guid>
       <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Tue, 19 May 2026 14:45:46 GMT</pubDate>
+      <pubDate>Tue, 19 May 2026 14:49:05 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image1.jpg" />
+    </item>
+
+    <item>
+      <title><![CDATA[ Updates coming soon ]]></title>
+      <description><![CDATA[
+      <div>
+        <img src="https://www.yoursite.com/image2.jpg" style="width: 100%;" />
+        <div>Your article summary or HTML here 2</div>
+      </div>
+      ]]></description>
+      <link>https://www.yoursite.com/articles/example-article2</link>
+      <guid isPermaLink="false">2955cfba-d798-4a1e-90f2-7d4671cc9333</guid>
+      <dc:creator><![CDATA[ Author Name ]]></dc:creator>
+      <pubDate>Tue, 19 May 2026 14:49:05 GMT</pubDate>
+      <media:content medium="image" url="https://www.yoursite.com/image2.jpg" />
     </item>
 
   </channel>
