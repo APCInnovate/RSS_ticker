@@ -9,7 +9,7 @@
       <title>[Filler]</title>
     </image>
     <generator>https://rss.app</generator>
-    <lastBuildDate>Tue, 19 May 2026 14:49:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 14:49:13 GMT</lastBuildDate>
     <atom:link href="https://www.yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
     <language><![CDATA[en]]></language>
 
@@ -22,9 +22,9 @@
       </div>
       ]]></description>
       <link>https://www.yoursite.com/articles/example-article1</link>
-      <guid isPermaLink="false">8aa10408-dc19-4fdb-a207-dcab6bcf3c69</guid>
+      <guid isPermaLink="false">e724ee43-d24c-4c33-b09e-963092d75518</guid>
       <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Tue, 19 May 2026 14:49:05 GMT</pubDate>
+      <pubDate>Tue, 19 May 2026 14:49:13 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image1.jpg" />
     </item>
 
@@ -37,9 +37,9 @@
       </div>
       ]]></description>
       <link>https://www.yoursite.com/articles/example-article2</link>
-      <guid isPermaLink="false">2955cfba-d798-4a1e-90f2-7d4671cc9333</guid>
+      <guid isPermaLink="false">ca0f9c13-283d-49bc-9802-4e02c1623dd9</guid>
       <dc:creator><![CDATA[ Author Name ]]></dc:creator>
-      <pubDate>Tue, 19 May 2026 14:49:05 GMT</pubDate>
+      <pubDate>Tue, 19 May 2026 14:49:13 GMT</pubDate>
       <media:content medium="image" url="https://www.yoursite.com/image2.jpg" />
     </item>
 
